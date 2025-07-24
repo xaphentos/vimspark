@@ -12,7 +12,7 @@ Instead of starting with a blank screen, `vimspark.vim` displays:
 
 ## 📸 Preview
 
-*(Add screenshot here if you'd like)*
+
 
 ---
 
